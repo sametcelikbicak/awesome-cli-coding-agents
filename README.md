@@ -406,6 +406,7 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 - **[Coasts](https://github.com/coast-guard/coasts)** `⭐ 410` — Containerized host orchestration for git worktrees; isolates ports, networks, and services per environment using DinD/Sysbox/Podman. MIT.
 
 - **[subtask](https://github.com/zippoxer/subtask)** `⭐ 336` — Claude Skill for delegating tasks with subagents in Git worktrees.
+- **[RoleCraft](https://github.com/sametcelikbicak/rolecraft)** — Zero-dependency CLI to install AI agent skills as roles & behaviors from any source. Works with opencode, claude-code, cursor, and 30+ agents. No marketplace or signup required.
 
 - **[claude-cmd](https://github.com/kiliczsh/claude-cmd)** `⭐ 308` — Terminal wrapper for interacting with Claude models; often used as a building block in harness scripts.
 
